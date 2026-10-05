@@ -1,0 +1,3 @@
+# RCB Holdings
+Sri Lankan machinery, construction and concrete products website. Customers browse machinery, estimate interlock quantities and contact sales. Source of truth: user-supplied content inventory dated 2026-10-04. No invented reviews, statistics, warranty, dealership or availability claims.
+User requests Next.js, shadcn, Lucide, Google Sans Flex, reference-inspired light rounded design, bold hero, consistent scroll motion, paving calculator and before/after, a 3D machine placeholder and JCB-style exploded interaction. User explicitly permits image placeholders. Theme is already selected; no alternative design selection needed.
